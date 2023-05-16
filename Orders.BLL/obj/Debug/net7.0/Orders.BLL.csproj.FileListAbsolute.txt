@@ -1,0 +1,17 @@
+D:\Orders\Orders.BLL\bin\Debug\net7.0\Orders.BLL.deps.json
+D:\Orders\Orders.BLL\bin\Debug\net7.0\Orders.BLL.dll
+D:\Orders\Orders.BLL\bin\Debug\net7.0\Orders.BLL.pdb
+D:\Orders\Orders.BLL\obj\Debug\net7.0\Orders.BLL.csproj.AssemblyReference.cache
+D:\Orders\Orders.BLL\obj\Debug\net7.0\Orders.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orders\Orders.BLL\obj\Debug\net7.0\Orders.BLL.AssemblyInfoInputs.cache
+D:\Orders\Orders.BLL\obj\Debug\net7.0\Orders.BLL.AssemblyInfo.cs
+D:\Orders\Orders.BLL\obj\Debug\net7.0\Orders.BLL.csproj.CoreCompileInputs.cache
+D:\Orders\Orders.BLL\obj\Debug\net7.0\Orders.BLL.dll
+D:\Orders\Orders.BLL\obj\Debug\net7.0\refint\Orders.BLL.dll
+D:\Orders\Orders.BLL\obj\Debug\net7.0\Orders.BLL.pdb
+D:\Orders\Orders.BLL\obj\Debug\net7.0\ref\Orders.BLL.dll
+D:\Orders\Orders.BLL\bin\Debug\net7.0\Orders.DLL.dll
+D:\Orders\Orders.BLL\bin\Debug\net7.0\Orders.Domain.dll
+D:\Orders\Orders.BLL\bin\Debug\net7.0\Orders.Domain.pdb
+D:\Orders\Orders.BLL\bin\Debug\net7.0\Orders.DLL.pdb
+D:\Orders\Orders.BLL\obj\Debug\net7.0\Orders.BLL.csproj.CopyComplete
