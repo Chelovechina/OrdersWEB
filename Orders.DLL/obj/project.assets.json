@@ -3477,7 +3477,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\TEMP.IUCA.016\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3485,11 +3485,11 @@
       "projectUniqueName": "D:\\Orders\\Orders.DLL\\Orders.DLL.csproj",
       "projectName": "Orders.DLL",
       "projectPath": "D:\\Orders\\Orders.DLL\\Orders.DLL.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\TEMP.IUCA.016\\.nuget\\packages\\",
       "outputPath": "D:\\Orders\\Orders.DLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TEMP.IUCA.016\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

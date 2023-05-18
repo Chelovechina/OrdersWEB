@@ -41,19 +41,6 @@ namespace Orders.Controllers
             }
         }
 
-        [HttpGet("{id}")]
-        public async Task<ActionResult<OrderDto>> GetOne(int id)
-        {
-            try
-            {
-                return Ok(await _orderService.Get(id));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex);
-            }
-        }
-
         [HttpPost]
         public async Task<ActionResult<OrderDto>> Post([FromBody] OrderDto value)
         {
